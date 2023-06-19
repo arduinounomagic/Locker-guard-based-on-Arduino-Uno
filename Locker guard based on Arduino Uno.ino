@@ -1,3 +1,14 @@
+/*
+*Locker guard based on Arduino Uno
+* This system generates a beep sound whenever someone attempts to open the locked safe. 
+*
+*for more detail about this project please visit:
+*https://arduinounomagic.com/locker-guard-based-on-arduino-uno-story/
+
+*Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
+*for more projects based on Arduino uno please visit: https://arduinounomagic.com/
+*/
+
 #include<LiquidCrystal.h> // Include LCD header file.
 
  
